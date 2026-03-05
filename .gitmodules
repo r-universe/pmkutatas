@@ -1,7 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/pmkutatas/pmkutatas.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mofwp"]
-	path = mofwp
-	url = https://gitlab.com/pmkutatas/mofwp
